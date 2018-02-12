@@ -1,0 +1,16 @@
+-rwxr-xr-x 1 plaxton plaxton 30M 29 janv. 21:53  packages/mongodb-org-mongos_3.4.11_amd64/usr/bin/mongos
+
+-rwxr-xr-x 1 plaxton plaxton 52M 29 janv. 21:53  packages/mongodb-org-server_3.4.11_amd64/usr/bin/mongod
+
+-rwxr-xr-x 1 plaxton plaxton 29M 29 janv. 21:53  packages/mongodb-org-shell_3.4.11_amd64/usr/bin/mongo
+
+-rwxr-xr-x 1 plaxton plaxton 10M 29 janv. 21:53  packages/mongodb-org-tools_3.4.11_amd64/usr/bin/bsondump
+-rwxr-xr-x 1 plaxton plaxton 13M 29 janv. 21:53  packages/mongodb-org-tools_3.4.11_amd64/usr/bin/mongodump
+-rwxr-xr-x 1 plaxton plaxton 11M 29 janv. 21:53  packages/mongodb-org-tools_3.4.11_amd64/usr/bin/mongoexport
+-rwxr-xr-x 1 plaxton plaxton 11M 29 janv. 21:53  packages/mongodb-org-tools_3.4.11_amd64/usr/bin/mongofiles
+-rwxr-xr-x 1 plaxton plaxton 11M 29 janv. 21:53  packages/mongodb-org-tools_3.4.11_amd64/usr/bin/mongoimport
+-rwxr-xr-x 1 plaxton plaxton 10M 29 janv. 21:53  packages/mongodb-org-tools_3.4.11_amd64/usr/bin/mongooplog
+-rwxr-xr-x 1 plaxton plaxton 52M 29 janv. 21:53  packages/mongodb-org-tools_3.4.11_amd64/usr/bin/mongoperf
+-rwxr-xr-x 1 plaxton plaxton 14M 29 janv. 21:53  packages/mongodb-org-tools_3.4.11_amd64/usr/bin/mongorestore
+-rwxr-xr-x 1 plaxton plaxton 11M 29 janv. 21:53  packages/mongodb-org-tools_3.4.11_amd64/usr/bin/mongostat
+-rwxr-xr-x 1 plaxton plaxton 11M 29 janv. 21:53  packages/mongodb-org-tools_3.4.11_amd64/usr/bin/mongotop
